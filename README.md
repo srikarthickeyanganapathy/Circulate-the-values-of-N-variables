@@ -6,15 +6,22 @@ PC
 Anaconda - Python 3.7
 ## Algorithm: 
 ### Step 1: 
-Get the two values from the user
-### Step 2: 
+commence the program
+
+### Step 2:
+get the value from the user for the number of rotation
+
+### Step 3:
 Get the value from the user for the number of rotation
-### Step 3: 
+
+### Step 4:
 Using the slicing concept rotate the list
-### Step 4: 
-Print the circulated string
-### Step 5: 
-End the program
+
+### Step 5:
+print the rotated list
+
+### Step 6:
+end the program
 
 ## Program:
 ```
